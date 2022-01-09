@@ -1,0 +1,30 @@
+body {
+    background: #06070828;
+}
+
+line {
+    stroke: green;
+    stroke-width: 0.5px;
+ }
+
+text {
+    font-family: "Candara";
+    font-weight: bold;
+}
+
+#yAxisGroup {
+    color: #000000;
+}
+
+#xAxisGroup {
+    color: #000000;
+}
+
+circle {
+    fill: #911e0a83;
+}
+
+#refLine {
+    stroke: rgba(150, 28, 28, 0.562);
+    stroke-width: 4px;
+}
